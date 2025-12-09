@@ -119,7 +119,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Scientist in the US](image\top_trending_skills.png)  
+![Trending Top Skills for Data Scientist in the US](image/top_trending_skills.png)  
 *Bar graph visualizing the trending top skills for data Scientist in the US .*
 
 ### Insights:
